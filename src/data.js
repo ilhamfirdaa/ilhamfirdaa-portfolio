@@ -1,0 +1,92 @@
+export default {
+  cityName: 'Jakarta',
+  countryCode: 'ID',
+  id: 'fd18dea7-d360-5818-a28e-ed2675023551',
+  timezone: 'Asia/Jakarta',
+  listForecasts: [
+    {
+      precip: 1.375,
+      temp: 27.8,
+      weather: {
+        code: 804,
+        description: 'Overcast clouds',
+        icon: 'c04d',
+      },
+      wind_spd: 3.78396,
+      sunrise_ts: 1581202507,
+      sunset_ts: 1581246783,
+    },
+    {
+      precip: 5.3125,
+      temp: 30.1,
+      weather: {
+        code: 500,
+        description: 'Light rain',
+        icon: 'r01d',
+      },
+      wind_spd: 1.66201,
+      sunrise_ts: 1581288916,
+      sunset_ts: 1581333176,
+    },
+    {
+      precip: 1.5625,
+      temp: 30.6,
+      weather: {
+        code: 803,
+        description: 'Broken clouds',
+        icon: 'c03d',
+      },
+      wind_spd: 2.62328,
+      sunrise_ts: 1581375325,
+      sunset_ts: 1581419568,
+    },
+    {
+      precip: 19.5625,
+      temp: 30.2,
+      weather: {
+        code: 502,
+        description: 'Heavy rain',
+        icon: 'r03d',
+      },
+      wind_spd: 2.50482,
+      sunrise_ts: 1581461733,
+      sunset_ts: 1581505960,
+    },
+    {
+      precip: 9.5,
+      temp: 29.7,
+      weather: {
+        code: 500,
+        description: 'Light rain',
+        icon: 'r01d',
+      },
+      wind_spd: 2.97307,
+      sunrise_ts: 1581548140,
+      sunset_ts: 1581592350,
+    },
+    {
+      precip: 0.8125,
+      temp: 29.6,
+      weather: {
+        code: 803,
+        description: 'Broken clouds',
+        icon: 'c03d',
+      },
+      wind_spd: 2.63936,
+      sunrise_ts: 1581634547,
+      sunset_ts: 1581678740,
+    },
+    {
+      precip: 16,
+      temp: 30.3,
+      weather: {
+        code: 502,
+        description: 'Heavy rain',
+        icon: 'r03d',
+      },
+      wind_spd: 2.21001,
+      sunrise_ts: 1581720953,
+      sunset_ts: 1581765129,
+    },
+  ],
+}

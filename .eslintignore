@@ -1,0 +1,15 @@
+gatsby-config.js
+
+package-lock.json
+
+node_modules/
+
+.cache/
+public
+
+.env*
+.npm
+
+logs
+*.log
+npm-debug.log*

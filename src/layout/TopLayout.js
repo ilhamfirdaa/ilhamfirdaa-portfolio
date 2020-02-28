@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 import React from 'react'
 import { createStore as reduxCreateStore } from 'redux'
 import { Provider } from 'react-redux'

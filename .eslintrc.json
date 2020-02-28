@@ -24,7 +24,7 @@
     ],
     "rules": {
         "semi": ["error", "never"],
-        "linebreak-style": ["error", "windows"],
+        "linebreak-style": ["error", "unix"],
         "no-console": "off",
         "no-use-before-define": "off",
         "max-len": "off",

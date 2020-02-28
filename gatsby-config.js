@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby starter pack`,
-    description: `gatsby starter with material ui, redux and jest`,
+    title: `Ilham Firdaus Portfolio`,
+    description: `ilhamfirdaa portfolio website`,
     author: `ilhamfirdaa`,
   },
   plugins: [

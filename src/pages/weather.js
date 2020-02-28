@@ -43,6 +43,8 @@ const useStyles = makeStyles((theme) => ({
   },
   overlay: {
     width: '100%',
+    display: 'block',
+    overflow: 'auto',
     backgroundColor: 'rgba(0,0,0,0.5)',
     zIndex: 2,
     padding: theme.spacing(0),
